@@ -1,0 +1,155 @@
+.top-bar-and-footer{
+    background-color: orangered;
+    color: white;
+    text-align: center;
+    padding: 15;
+    border-bottom: rgb(233, 171, 57) 5px solid;
+    
+}
+h1{
+    color:#333;
+    font-size: 80px;
+    font-weight: bolder;
+    text-align: center;
+}
+.container{
+    max-width: 888px;
+    margin: auto;
+    padding: 30px;
+}
+
+.headline{
+    font-size: 56px;
+    line-height: 64px;
+    color:#333;
+}
+.subtitle{
+    font-size: 25px;
+    line-height:33px;
+    color:#616161;
+    
+}
+.author{
+    color: white;
+    background: lightblue;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 35px;
+    cursor: pointer;
+}
+.social-icons{
+    margin-top: 10px;
+}
+.social-icon{
+    width: 20px;
+    padding: 10px 10px 10px 0;
+}
+a{
+    text-decoration: none;
+    font-weight: 700
+}
+.content{
+    max-width: 648px;
+    margin: auto;
+    padding: 20px;
+}
+.mid-bar{
+    text-align: center;
+    background-color: rgb(231, 216, 216);
+    font-weight: bolder;
+    color: #333;
+    border-style: solid;
+    border-top-color:#333 ;
+    border-right-color: #333;
+    border-bottom-color:#333;
+    border-left-color: #333;
+    border-radius: 5px;
+    
+
+}
+#ovo{
+    list-style: none;
+    list-style-image: url(./imagens/ovo.webp);
+}
+#fubá{
+    list-style: none;
+    list-style-image: url(./imagens/fuba.webp);
+}
+#óleo{
+    list-style: none;
+    list-style-image: url(./imagens/oleo.webp);
+}
+#fermento{
+    list-style: none;
+    list-style-image: url(./imagens/fermento-em-po.webp);
+}
+#erva{
+    list-style: none;
+    list-style-image: url(./imagens/erva-doce.webp);
+}
+#leite{
+    list-style: none;
+    list-style-image: url(./imagens/leite.webp);
+}
+#açúcar{
+    list-style: none;
+    list-style-image: url(./imagens/acucar.webp);
+}
+#trigo{
+    list-style: none;
+    list-style-image: url(./imagens/farinha-de-trigo.webp);
+}
+#goiabada{
+    list-style: none;
+    list-style-image: url(./imagens/goiabada.webp);
+}
+.bottom{
+    color: white;
+    background-color: rgb(240, 99, 47);
+    box-sizing: border-box;
+    border: solid rgb(240, 99, 47);
+    border-radius: 10px;
+    margin: 30px 0 30px 0;
+    cursor: pointer;
+    margin-right: 130px;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-left: 210px;
+    text-align: center;
+}
+#preparo{
+
+}
+.footter{
+    
+}
+
+body{
+   font-family: 'Open Sans', sans-serif;
+   font-family: 'Oswald', sans-serif;
+   font-family: 'Roboto Slab', serif;
+   margin: 0%;
+   padding: 0%; 
+}
+ul{
+    font-size: 15px;
+}
+ol{
+    font-size: 20px;
+    line-height: 32px;
+    padding: 20px;
+    
+}
+img {
+    max-width: 1000px;
+    max-height:150px
+}
+.cabecalho{
+    
+    background: url("./imagens/bolo-fubá.webp");
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
